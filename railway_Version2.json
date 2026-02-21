@@ -1,0 +1,9 @@
+{
+  "builds": [
+    {
+      "src": ".",
+      "use": "@railway/builders-python"
+    }
+  ],
+  "start": "python main.py"
+}
